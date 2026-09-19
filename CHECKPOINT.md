@@ -1,5 +1,6 @@
 # 📌 CHECKPOINT DO PROJETO - ARTIGO DE MESTRADO
 **Data da última atualização**: 19 de Setembro de 2026  
+**Repositório GitHub**: [https://github.com/Paulo83-dev/ARTIGO_MESTRADO](https://github.com/Paulo83-dev/ARTIGO_MESTRADO)  
 **Objetivo do Documento**: Ponto de restauração para retomar o desenvolvimento em uma nova sessão sem sobrecarga de contexto.
 
 ---
