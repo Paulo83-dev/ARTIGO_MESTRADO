@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Caches e testes
+.pytest_cache/
+.coverage
+*.log
+
+# IDE e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do Sistema Operacional (Windows / Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
